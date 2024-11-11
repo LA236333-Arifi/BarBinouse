@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"binouse.app"},{"l":"binouse.biere"},{"l":"binouse.db"},{"l":"binouse.stock"},{"l":"binouse.tests"}];updateSearchResults();

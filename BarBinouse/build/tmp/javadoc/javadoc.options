@@ -1,0 +1,12 @@
+-classpath 'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\build\\classes\\java\\main;C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\build\\resources\\main;C:\\Users\\Ilies\\.gradle\\caches\\modules-2\\files-2.1\\com.microsoft.sqlserver\\mssql-jdbc\\12.4.0.jre11\\af1c059f27481c3248df214315bcd7ddc71b4b71\\mssql-jdbc-12.4.0.jre11.jar'
+-d 'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\build\\docs\\javadoc'
+-doctitle 'BarBinouse 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'BarBinouse 1.0-SNAPSHOT API'
+'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\src\\main\\java\\binouse\\app\\Application.java'
+'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\src\\main\\java\\binouse\\biere\\Biere.java'
+'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\src\\main\\java\\binouse\\db\\DbConnexion.java'
+'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\src\\main\\java\\binouse\\stock\\Stock.java'
+'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\src\\main\\java\\binouse\\tests\\BiereTest.java'
+'C:\\Users\\Ilies\\Desktop\\Java\\BarBinouse\\src\\main\\java\\binouse\\tests\\StockTest.java'

@@ -1,0 +1,13 @@
+CREATE DATABASE BiereDB;
+
+USE BiereDB;
+
+CREATE TABLE Bieres (
+    id INT PRIMARY KEY IDENTITY(1,1),
+    nom NVARCHAR(100) NOT NULL,
+    description NVARCHAR(255),
+    contenance FLOAT,
+    type INT,
+    brasserie INT,
+    quantite INT
+);
